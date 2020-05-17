@@ -44,4 +44,4 @@ for i in exts:
 
 
 
-bot.run(os.environ[TOKEN])
+bot.run(os.environ['TOKEN'])
